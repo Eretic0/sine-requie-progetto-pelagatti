@@ -2,6 +2,8 @@ Immagine dal sito http://sinerequie.roseandpoison.com/
 
 [![sine.gif](https://i.postimg.cc/3Jxrvsvj/sine.gif)](https://postimg.cc/PN0kGFKN)
 [![bos-2004.gif](https://i.postimg.cc/FK5QD87B/bos-2004.gif)](https://postimg.cc/rDJbphG1)
+<br/>
+[![nessuna.jpg](https://i.postimg.cc/T1zcZZBK/nessuna.jpg)](https://postimg.cc/7JN7zQH4)
 
 _INTRODUZIONE_
 

@@ -29,10 +29,6 @@ _Questo è il mondo di “Sine Requie”._
 
 _Il futuro più buio che l’uomo potesse immaginare è divenuto la più mostruosa delle realtà._
 
-[![serpentariumgames.gif](https://i.postimg.cc/VNc3jthy/serpentariumgames.gif)](https://postimg.cc/rDQnTDcg)
-
-[![rose.gif](https://i.postimg.cc/k59pVmVq/rose.gif)](https://postimg.cc/zytjM4Sc)
-
 Sine requie
 
 Di Matteo Cortini e Leonardo Moretti
@@ -43,3 +39,7 @@ Illustrazioni:
 [Alberto Bontempi]
   
 Art direction: Sergio Giovannini
+
+[![serpentariumgames.gif](https://i.postimg.cc/VNc3jthy/serpentariumgames.gif)](https://postimg.cc/rDQnTDcg)
+
+[![rose.gif](https://i.postimg.cc/k59pVmVq/rose.gif)](https://postimg.cc/zytjM4Sc)

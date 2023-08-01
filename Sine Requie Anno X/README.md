@@ -1,8 +1,5 @@
-![](/web/20070716063553im_/http://sinerequie.roseandpoison.com/images/sine.gif)
-
-![](/web/20070716063553im_/http://sinerequie.roseandpoison.com/images/bos-2004.gif)
-
-![](/web/20070716063553im_/http://sinerequie.roseandpoison.com/images/nessuna.JPG)
+[![sine.gif](https://i.postimg.cc/3Jxrvsvj/sine.gif)](https://postimg.cc/PN0kGFKN)
+[![bos-2004.gif](https://i.postimg.cc/FK5QD87B/bos-2004.gif)](https://postimg.cc/rDJbphG1)
 
 _INTRODUZIONE_
 
@@ -28,6 +25,6 @@ _Questo è il mondo di “Sine Requie”._
 
 _Il futuro più buio che l’uomo potesse immaginare è divenuto la più mostruosa delle realtà._
 
-[![](/web/20070716063553im_/http://sinerequie.roseandpoison.com/images/rose.gif)](https://web.archive.org/web/20070716063553/http://www.roseandpoison.com/)
+[![serpentariumgames.gif](https://i.postimg.cc/VNc3jthy/serpentariumgames.gif)](https://postimg.cc/rDQnTDcg)
 
-![](/web/20070716063553im_/http://sinerequie.roseandpoison.com/images/serpentariumgames.gif)
+[![rose.gif](https://i.postimg.cc/k59pVmVq/rose.gif)](https://postimg.cc/zytjM4Sc)

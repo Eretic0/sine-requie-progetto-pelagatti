@@ -70,7 +70,7 @@ Il Progetto Pelagatti è un archivio e una biblioteca aperta al dialogo e alla c
 ## Contribuire
 
 Hai scritto un'avventura, un modulo, un racconto o altro per Sine Requie e vuoi condividerlo?<br/>
-I contributi sono quello che rende la community open souce un posto magnifico per imparare, ispirare e creare. Ogni contributo che farai sarà **estremamente gradito**.<br/>
+I contributi sono quello che rende la community open souce un posto magnifico per imparare, ispirare e creare.<br /> Ogni contributo che farai sarà **estremamente gradito**.<br/>
 Vedere presso [Richieste](https://github.com/Eretic0/sine-requie-creapg/issues) per poter vedere la lista e poter inserire una tua richiesta di aggiornamento e/o integrazione del materiale del Progetto Pelagatti.
 
 <p align="right">(<a href="#readme-top">ritorna all'inizio</a>)</p>

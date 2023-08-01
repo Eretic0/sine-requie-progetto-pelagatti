@@ -51,7 +51,7 @@ Quindi collaboriamo, condividiamo e arricchiamo questo archivio con sempre più 
 ## Cosa NON troverete qui
 
 Qui NON troverete pdf dei manuali ufficiali in commercio!<br/>
-Questo è un archivio per tutti i contenuti gratuiti e quindi NON troverete mai per esempio il Manuale base di Sine Requie Anno XIII.
+Questo è un archivio per tutti i contenuti GRATUITI e quindi NON troverete mai per esempio il Manuale base di Sine Requie Anno XIII.
 
 <p align="right">(<a href="#readme-top">ritorna all'inizio</a>)</p>
 

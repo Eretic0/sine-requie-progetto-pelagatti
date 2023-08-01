@@ -27,7 +27,7 @@ campagna per Sine Requie
 Illustrazioni:  
 Michele Benevento  
 Michele Bertilorenzi  
-Alberto Bontempi
+Alberto Bontempi  
 Sergio Giovannini  
   
 Art direction: Sergio Giovannini

@@ -9,7 +9,7 @@
 <h3 align="center">Sine Requie Progetto Pelagatti</h3>
 
   <p align="center">
-    Un archivio digitale per il materiale gratuito di Sine Requiee
+    Un archivio digitale per il materiale gratuito di Sine Requie
     <br />
     <a href="https://github.com/Eretic0/sine-requie-progetto-pelagatti/issues">Richieste</a>
   </p>

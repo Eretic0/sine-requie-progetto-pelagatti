@@ -51,6 +51,15 @@ Questo manuale include inoltre due avventure complete per giocare nell’ambient
 
 [![sine-interni.jpg](https://i.postimg.cc/G3DzDxNq/sine-interni.jpg)](https://postimg.cc/XXVwSdnC)
 
+**Sine Requie "Soviet"** vi sprofonderà nell'oscurità della Russia del 1954, a dieci anni dal Giorno del Giudizio, dal risveglio dei Morti.  
+La civiltà Russa riuscì a sopravvivere all'orrore ma solamente a prezzo di cambiamenti estremi. Sorsero così le gigantesche città alveare di metallo, immensi labirinti di torri e corridoi che ancora oggi si estendono dalle profondità della terra fino al cielo, mentre dalle infaticabili fabbriche nacquero le prime biomacchine, mostruosa avanguardia di una nuova umanità. Questo è il regno di Z.A.R., dittatore inumano di una tecnocrazia che ha decretato la fine di concetti quali la famiglia, la religione, la pace e il riposo; neppure la luce del sole è più concessa ai cittadini schiavi del Calcolatore e i giorni hanno perso il loro valore e modificato la loro durata per sottostare ai ritmi ferrei e precisi di fabbriche sconfinate e inconcepibili.  
+Ma alcune città stanno misteriosamente cadendo, coraggiosi e folli Ribelli si nascondono nelle ombre dei Livelli più profondi, sette segrete e temibili minacciano l'autorità di Z.AR., i cui scopi ultimi e i cui oscuri segreti paiono imperscrutabili ...  
+...misteri che strisciano in torri di freddo metallo sospese tra un cielo gelido e l'Inferno, finché non verrà il tempo in cui l'uomo si fonderà definitivamente con la macchina e la carne potrà essere schiacciata e dimenticata per sempre.  
+Lotterete per la libertà o ucciderete nel nome di Z.A.R.?
+Questo manuale include due avventure complete per giocare nell’ambientazione Soviet.
+[Scarica demo in pdf] (pdf 495 kbytes)
+[![soviet-interni.jpg](https://i.postimg.cc/ZRWcq8tt/soviet-interni.jpg)](https://postimg.cc/62NRjGpY)
+
 Sine requie
 
 Di Matteo Cortini e Leonardo Moretti

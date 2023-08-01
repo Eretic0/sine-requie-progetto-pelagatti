@@ -84,6 +84,11 @@ ambientazione per Sine Requie
 ambientazione per Sine Requie  
 28 pagine
 
+**Sine Requie  
+“Soviet”**  
+ambientazione per Sine Requie  
+44 pagine  
+
 Illustrazioni:  
 [Ursula Equizzi]  
 [Michele Benevento]  

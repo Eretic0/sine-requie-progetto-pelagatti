@@ -1,3 +1,5 @@
+Immagine dal sito http://sinerequie.roseandpoison.com/
+
 [![sine.gif](https://i.postimg.cc/3Jxrvsvj/sine.gif)](https://postimg.cc/PN0kGFKN)
 [![bos-2004.gif](https://i.postimg.cc/FK5QD87B/bos-2004.gif)](https://postimg.cc/rDJbphG1)
 

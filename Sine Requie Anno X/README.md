@@ -32,3 +32,14 @@ _Il futuro più buio che l’uomo potesse immaginare è divenuto la più mostruo
 [![serpentariumgames.gif](https://i.postimg.cc/VNc3jthy/serpentariumgames.gif)](https://postimg.cc/rDQnTDcg)
 
 [![rose.gif](https://i.postimg.cc/k59pVmVq/rose.gif)](https://postimg.cc/zytjM4Sc)
+
+Sine requie
+
+Di Matteo Cortini e Leonardo Moretti
+
+Illustrazioni:  
+[Ursula Equizzi]  
+[Michele Benevento]  
+[Alberto Bontempi]
+  
+Art direction: Sergio Giovannini

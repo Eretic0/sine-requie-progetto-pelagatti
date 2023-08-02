@@ -28,3 +28,5 @@ Il 6 Giugno 1944 il mondo sprofondò nel più oscuro degli inferni, nel Giorno d
 Adesso e' il 1957, il mondo e' divenuto un ammasso di macerie, dove i pochi sopravvissuti cercano di resistere alla fame dei Morti. Poche nazioni, rette da crudeli dittature, resistono all’assedio dei cadaveri.  
 In Germania e' sorto il IV Reich, un regno di orrore e follia, di freddi esperimenti genetici volti alla creazione della razza eletta. La grande Russia e' sepolta sotto le titaniche città di metallo del Soviet, governate dall'inumano calcolatore chiamato Z.A.R. L'Italia, ribattezzata Sanctum Imperium, è governata da Papa Leone XIV e dai suoi Inquisitori.  
 Questo e' il mondo di Sine Requie. Il futuro più buio che l'uomo potesse immaginare e' diventato la più mostruosa delle realtà.
+
+©2018 by Serpentarium.

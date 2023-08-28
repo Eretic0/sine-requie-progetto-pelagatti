@@ -29,5 +29,6 @@ Dice Games Italia, canale YouTube che tratta di Giochi da Tavolo e Giochi di Ruo
 
 ## Collegamenti Utili
 E' disponibile su YouTube una playlist in cui l'avventura viene giocata:
+<br />
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/eXOZ8AAdrqI/0.jpg)](http://www.youtube.com/watch?v=eXOZ8AAdrqI "Fiordi Nazisti")
 </div>

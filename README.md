@@ -39,7 +39,7 @@
 Con lo scorrere del tempo i siti internet muoiono. E cosa succede ai contenuti presenti in quelle pagine digitali?<br/> Perse come lacrime nella pioggia?<br/>
 Noi rispondiamo con un secco NO!.<br/>
 Il contenuto si può RISVEGLIARE! Speriamo non in un Diabolicus.<br/>
-Il Progetto Pelagatti ambisce a divenire un archivio virtuale per tutto il materiale gratuito inerente Sine Requie, una biblioteca aperta e disponibile a tutti/e dove poter accedere ai contenuti liberalmente condivisibili.<br/>
+Il Progetto Pelagatti ambisce a divenire un archivio virtuale per tutto il materiale gratuito inerente Sine Requie, una biblioteca aperta e disponibile a tuttə dove poter accedere ai contenuti liberalmente condivisibili.<br/>
 In questo archivio troverete materiale sia per Sine Requie Anno X e Anno XIII, come per esempio avventure, schede personaggio, contenuti scritti dai fan e molto altro.<br/>
 La nostra filosofia è per la massima libertà di condivisione con la community di Sine Requie, ma sempre nella più assoluta legalità.<br/>
 Quindi collaboriamo, condividiamo e arricchiamo questo archivio con sempre più risorse utili a tutti gli utenti.
@@ -71,7 +71,7 @@ Il Progetto Pelagatti è un archivio e una biblioteca aperta al dialogo e alla c
 
 Hai scritto un'avventura, un modulo, un racconto o altro per Sine Requie e vuoi condividerlo?<br/>
 I contributi sono quello che rende la community open souce un posto magnifico per imparare, ispirare e creare.<br /> Ogni contributo che farai sarà **estremamente gradito**.<br/>
-Vedere presso [Richieste](https://github.com/Eretic0/sine-requie-creapg/issues) per poter vedere la lista e poter inserire una tua richiesta di aggiornamento e/o integrazione del materiale del Progetto Pelagatti.
+Puoi inviare il tuo materiale sul Discord oppure presso [Richieste](https://github.com/Eretic0/sine-requie-creapg/issues) per poter vedere la lista e poter inserire una tua richiesta di aggiornamento e/o integrazione del materiale del Progetto Pelagatti.
 
 <p align="right">(<a href="#readme-top">ritorna all'inizio</a>)</p>
 
@@ -79,7 +79,7 @@ Vedere presso [Richieste](https://github.com/Eretic0/sine-requie-creapg/issues) 
 
 ## Contatti
 
-Eretic0 - [YouTube](https://www.youtube.com/@GoticaArcana) - [Itch.io](https://eretic0.itch.io/)
+Eretic0 - [Discord](https://discord.gg/UheyS5PZsx) - [YouTube](https://www.youtube.com/@GoticaArcana) - [Itch.io](https://eretic0.itch.io/)
 
 Link al Progetto: [https://github.com/Eretic0/sine-requie-progetto-pelagatti](https://github.com/Eretic0/sine-requie-progetto-pelagatti)
 
